@@ -15,7 +15,7 @@
 * __Java Graphics Applications and Games__
   * Calculator, Hedge Maze Game (JAVA)
 * __Modded Game Applications__ 
-  *__RhestasVsPestas__ : (LUA, JS, CSS)
+  * __RhestasVsPestas__ : (LUA, JS, CSS)
 
 ### Work Experience
 * __Various Modding Jobs__ 

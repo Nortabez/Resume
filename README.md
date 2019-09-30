@@ -18,8 +18,8 @@
   *__RhestasVsPestas__* (LUA, JS, CSS)
 
 ### Work Experience
-* __Various Modding Jobs__ *
- * Jobs throughout the year in relation modding the application Dota 2, using mostly LUA
+* __Various Modding Jobs__ 
+  * Jobs throughout the year in relation modding the application Dota 2, using mostly LUA
    (similar to Python), and JS + CSS.
 * __Walamrt__ *
   * _Employee: Fall 2018 - Present_
